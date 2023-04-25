@@ -1,4 +1,4 @@
-# mGetting Started with the Repository
+# Getting Started with the Repository
 This repository contains the source code for a web Calculator application . To get started, follow these steps:
 
 ## Clone the Repository
